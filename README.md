@@ -7,11 +7,6 @@
 I have made my portfolio used by Clever programmer template.
 This is a ReactJS based personal resume
 
-#### PREREQUISITES:
-
-- Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.
-
 ## Credits
 
 #### Credits to Saad Pasta <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>
